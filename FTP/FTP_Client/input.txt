@@ -1,0 +1,6 @@
+connect to FTP server ftp://ftp.intel.com/ user password
+dowland readme.txt D:/readme.txt
+go into folder images
+print dir content
+go to parent dir
+print dir content
